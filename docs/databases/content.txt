@@ -1,0 +1,9 @@
+Home|/|page|||
+About Us|/pages/about-us.html|page|Meta||
+Contact Us|/pages/contact-us.html|page|Meta||
+Licensing|/pages/licensing.html|page|Meta||
+Privacy Policy|/pages/privacy-policy.html|page|Meta||
+Terms of Service|/pages/terms-of-service.html|page|Meta||
+Meta|/pages/meta.html|page|Meta||
+What Is Web3?|/posts/what-is-web3/what-is-web3.html|post|Web3,Definitions|/assets/thumbnail-512x288.png|/posts/what-is-web3/description.txt
+Ritchey Permissive License v16|/uploads/Ritchey Permissive License v16.txt|resource|License||

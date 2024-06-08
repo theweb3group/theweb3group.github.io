@@ -1,1 +1,3 @@
-# theweb3group.github.io
+# Description
+
+The core of our website.
